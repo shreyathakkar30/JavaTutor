@@ -56,7 +56,7 @@ void main() {
     int num2 = SC.nextInt();
     int total = num1 + num2;
     System.out.println("The sum of given numbers is: "+total);
-
+    //Scanner Example
 
 
 }
