@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc8253d6-86f1-4fb5-bee8-753abb4f8940" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Conditions">
+  <component name="RunManager" selected="Application.calculator">
     <configuration name="Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditions" />
       <module name="JavaTutorial1" />
@@ -62,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculator" />
+      <module name="JavaTutorial1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.calculator" />
         <item itemvalue="Application.Conditions" />
         <item itemvalue="Application.Main" />
       </list>
@@ -84,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781504775429</updated>
-      <workItem from="1781504777000" duration="10593000" />
+      <workItem from="1781504777000" duration="11221000" />
     </task>
     <servers />
   </component>
