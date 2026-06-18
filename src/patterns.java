@@ -46,9 +46,23 @@ public class patterns {
     //here whatever the row number becomes the number of stars
     //if row number is 1 the number of stars will be 1, if row number is 2 the number of stars is 2, and so on
     //outer loop
-        for (int i = 1; i<=n; i++){
-            //inner loop
-            for (int j =1; j<=i; j++){
+//        for (int i = 1; i<=n; i++){
+//            //inner loop
+//            for (int j =1; j<=i; j++){
+//                System.out.print("*");
+//            }
+//            System.out.println();
+//        }
+
+        //Question: print the pattern
+        //****
+        //***
+        //**
+        //*
+        //outer loop
+        for (int i=n; i>=1; i--){
+            //inner loop will remain same as above
+            for (int j=1; j<=i; j++){
                 System.out.print("*");
             }
             System.out.println();
