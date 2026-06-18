@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class loops {
     //Loops  are used when you want to repeat some task
     //For loop, while loop, do while loops are available in java
@@ -32,6 +34,26 @@ public class loops {
             o++;
 
         }while (o<=100);
+
+        //Question: Print the sum of First n Natural numbers.
+        int n = 4;
+        int sum = 0;
+        for(int k = 1; k <= n; k++){
+            sum = sum + k;
+
+
+        }
+        System.out.println("sum is: "+sum);
+
+        //Question: Print the table of a number input by the user
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number which you want to multily: ");
+        int object = sc.nextInt();
+
+        for(int p = 1; p < 11; p++){
+            System.out.println("Table is "+object*p);
+        }
+
 
 
 }}
