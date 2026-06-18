@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc8253d6-86f1-4fb5-bee8-753abb4f8940" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/patterns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loops.java" afterDir="false" />
     </list>
@@ -35,6 +36,7 @@
     "Application.Main.executor": "Run",
     "Application.calculator.executor": "Run",
     "Application.loops.executor": "Run",
+    "Application.patterns.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -49,7 +51,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.loops">
+  <component name="RunManager" selected="Application.patterns">
     <configuration name="Conditions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditions" />
       <module name="JavaTutorial1" />
@@ -79,8 +81,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns" />
+      <module name="JavaTutorial1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.patterns" />
         <item itemvalue="Application.loops" />
         <item itemvalue="Application.calculator" />
         <item itemvalue="Application.Conditions" />
@@ -105,7 +115,7 @@
       <updated>1781504775429</updated>
       <workItem from="1781504777000" duration="12116000" />
       <workItem from="1781693565106" duration="1828000" />
-      <workItem from="1781779024450" duration="3739000" />
+      <workItem from="1781779024450" duration="7787000" />
     </task>
     <servers />
   </component>
@@ -118,6 +128,11 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/loops.java</url>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loops.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

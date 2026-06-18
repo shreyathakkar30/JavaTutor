@@ -45,7 +45,7 @@ public class loops {
         }
         System.out.println("sum is: "+sum);
 
-        //Question: Print the table of a number input by the user
+//        //Question: Print the table of a number input by the user
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number which you want to multily: ");
         int object = sc.nextInt();
@@ -53,6 +53,8 @@ public class loops {
         for(int p = 1; p < 11; p++){
             System.out.println("Table is "+object*p);
         }
+
+
 
 
 
