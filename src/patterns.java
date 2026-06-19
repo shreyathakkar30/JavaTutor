@@ -91,12 +91,31 @@ public class patterns {
         //123
         //1234
         //12345
-        for (int i =1; i<=n; i++){
-            for (int j = 1; j<=i; j++){
+//        for (int i =1; i<=n; i++){
+//            for (int j = 1; j<=i; j++){
+//                System.out.print(j+ " ");
+//            }
+//            System.out.println();
+//        }
+
+        //Question: print the pattern(Inverted half pyramid with numbers)
+        //12345
+        //1234
+        //123
+        //12
+        //1
+        for (int i = 1; i<=n; i++){
+            for (int j = 1; j<=n-i+1; j++){
                 System.out.print(j);
+
+            }
+            for (int j = 1; j<=i; j++){
+                System.out.print(" ");
+
             }
             System.out.println();
         }
+
 
 }
 }
