@@ -9,7 +9,7 @@ public class patterns {
     //Will use Nested loops for this
     int n = 5;
     int m = 5;
-    outer loop
+    //outer loop
     for (int i =1; i <=n; i++){
         //inner loop
         for(int j = 1; j<=m; j++){
