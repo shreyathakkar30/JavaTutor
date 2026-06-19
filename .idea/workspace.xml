@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc8253d6-86f1-4fb5-bee8-753abb4f8940" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AdvancePatterns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancePatterns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancePatterns.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +118,7 @@
       <workItem from="1781779024450" duration="8104000" />
       <workItem from="1781799833343" duration="4942000" />
       <workItem from="1781866125892" duration="160000" />
-      <workItem from="1781869073352" duration="5360000" />
+      <workItem from="1781869073352" duration="7465000" />
     </task>
     <servers />
   </component>
