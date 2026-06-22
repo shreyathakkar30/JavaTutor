@@ -26,6 +26,7 @@ public class Functions {
         int factorial =  1;
         if (n<=0){
             System.out.println("Invalid Input");
+            return;
         }
         //loop
         for (int i = n; i>=1; i--){
