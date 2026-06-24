@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc8253d6-86f1-4fb5-bee8-753abb4f8940" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,31 +29,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AdvanceFunctionQuestion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AdvancePatterns.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.patterns.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/JavaTutorial1/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdvanceFunctionQuestion.executor": "Run",
+    "Application.AdvancePatterns.executor": "Run",
+    "Application.Arrays.executor": "Run",
+    "Application.Conditions.executor": "Run",
+    "Application.Functions.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.calculator.executor": "Run",
+    "Application.loops.executor": "Run",
+    "Application.patterns.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/JavaTutorial1/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.AdvanceFunctionQuestion">
+}]]></component>
+  <component name="RunManager" selected="Application.Arrays">
     <configuration name="AdvanceFunctionQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvanceFunctionQuestion" />
       <module name="JavaTutorial1" />
@@ -63,6 +64,13 @@
     </configuration>
     <configuration name="AdvancePatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancePatterns" />
+      <module name="JavaTutorial1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays" />
       <module name="JavaTutorial1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,20 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns" />
-      <module name="JavaTutorial1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.AdvanceFunctionQuestion" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.AdvancePatterns" />
         <item itemvalue="Application.calculator" />
-        <item itemvalue="Application.patterns" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +125,7 @@
       <workItem from="1782025864141" duration="6778000" />
       <workItem from="1782148353210" duration="1356000" />
       <workItem from="1782201641262" duration="2130000" />
-      <workItem from="1782309858809" duration="1674000" />
+      <workItem from="1782309858809" duration="2741000" />
     </task>
     <servers />
   </component>
