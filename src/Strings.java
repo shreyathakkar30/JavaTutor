@@ -36,6 +36,13 @@ public class Strings {
             System.out.println("Strings are equal");
         }else System.out.println("Strings are not equal");
 
-
+        //substring
+        String sentence = "Ny name is hsjdassacsja";
+        //substring(beg index, end index
+        String name = sentence.substring(11, sentence.length());
+        System.out.println(name);
+        //Strings are immutable
+        //Ak bar aapne agar memory me string bana di you can not change it or delete ir or modify it
+        //if you want to you have to create another string
     }
 }
