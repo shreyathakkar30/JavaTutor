@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc8253d6-86f1-4fb5-bee8-753abb4f8940" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays2D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     "Application.Conditions.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Strings.executor": "Run",
     "Application.calculator.executor": "Run",
     "Application.loops.executor": "Run",
     "Application.patterns.executor": "Run",
@@ -58,16 +59,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arrays2D">
+  <component name="RunManager" selected="Application.Strings">
     <configuration name="AdvanceFunctionQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvanceFunctionQuestion" />
-      <module name="JavaTutorial1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AdvancePatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancePatterns" />
       <module name="JavaTutorial1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings" />
+      <module name="JavaTutorial1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Strings" />
         <item itemvalue="Application.Arrays2D" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.AdvanceFunctionQuestion" />
         <item itemvalue="Application.Functions" />
-        <item itemvalue="Application.AdvancePatterns" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,7 @@
       <workItem from="1782201641262" duration="2130000" />
       <workItem from="1782309858809" duration="5899000" />
       <workItem from="1782359941906" duration="1134000" />
-      <workItem from="1782370878210" duration="4906000" />
+      <workItem from="1782370878210" duration="6216000" />
     </task>
     <servers />
   </component>
