@@ -20,6 +20,22 @@ public class Strings {
         //length() is used to print the length of the String
         System.out.println(fullName.length());
 
+        //charAt
+        for (int i =0; i<fullName.length(); i++){
+            System.out.println(fullName.charAt(i));
+        }
+        //compare two strings
+        String name1 = "tony";
+        String name2 = "tony";
+
+        //1st case s1 > s2 => +ve
+        //2nd case s1 == s2 => 0
+        //3rd case s1 < s2 => -ve
+
+        if (name1.compareTo(name2) == 0){
+            System.out.println("Strings are equal");
+        }else System.out.println("Strings are not equal");
+
 
     }
 }
